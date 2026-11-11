@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"55029":{"n":"Nenana, AK - Tesla Supercharger","net":"Tesla","kw":325.0,"dc":true,"p":5,"conn":[["CCS1",8,325.0],["NACS_TESLA",8,325.0]],"pts":8,"acc":"public","cc":"US","city":null,"src":[{"k":"afdc","u":null},{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/471304"}],"lc":"2026-11","conf":80,"osm":null,"more":null}}}

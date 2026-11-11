@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"353511":{"n":"ElectricOnE - Punto Carga","net":null,"kw":180.0,"dc":true,"p":5,"conn":[["GBT_DC",2,180.0],["CCS1",1,180.0],["CCS2",1,180.0]],"pts":4,"acc":"public_membership","cc":"MX","city":3993335,"src":[{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/480918"}],"lc":"2026-04","conf":61,"osm":null,"more":null}}}

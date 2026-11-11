@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"34022":{"n":"NPPD EV STATION ONEILL CUB DCNE","net":"ChargePoint","kw":125.0,"dc":true,"p":4,"conn":[["CCS1",1,125.0],["CHADEMO",1,125.0]],"pts":1,"acc":"public","cc":"US","city":null,"src":[{"k":"afdc","u":null},{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/282908"}],"lc":"2026-11","conf":80,"osm":null,"more":null}}}

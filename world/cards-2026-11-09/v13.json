@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"345709":{"n":"FLY 753","net":"Electrifly","kw":150.0,"dc":true,"p":5,"conn":[["CCS2",1,150.0],["GBT_DC",1,150.0],["CHADEMO",1,90.0]],"pts":2,"acc":"public_membership","cc":"RU","city":537737,"src":[{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/460442"}],"lc":"2025-08","conf":53,"osm":null,"more":null}}}

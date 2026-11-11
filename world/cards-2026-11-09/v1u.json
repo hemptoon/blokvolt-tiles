@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"346371":{"n":"Чибис","net":"ЭЗС СК","kw":150.0,"dc":true,"p":5,"conn":[["CCS2",1,150.0],["CHADEMO",1,60.0],["GBT_DC",1,150.0]],"pts":2,"acc":"public","cc":"RU","city":null,"src":[{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/461585"}],"lc":"2025-09","conf":54,"osm":null,"more":null}}}

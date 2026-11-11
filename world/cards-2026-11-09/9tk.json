@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"399878":{"n":"Villa Ahumada Supercharger","net":"Tesla","kw":250.0,"dc":false,"p":5,"conn":[["NACS_TESLA",4,250.0]],"pts":4,"acc":"public","cc":"MX","city":null,"src":[{"k":"osm","u":"https://www.openstreetmap.org/node/13656926355"}],"lc":null,"conf":50,"osm":"https://www.openstreetmap.org/node/13656926355","more":null}}}

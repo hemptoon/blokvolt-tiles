@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"345678":{"n":"Volvo Eletroposto Posto Potiguar","net":"EZVolt","kw":60.0,"dc":true,"p":4,"conn":[["CCS2",2,60.0],["TYPE2",1,22.0]],"pts":3,"acc":"public_membership","cc":"BR","city":null,"src":[{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/460404"}],"lc":"2025-08","conf":53,"osm":null,"more":null}}}

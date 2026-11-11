@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"352702":{"n":"EV Charger","net":null,"kw":70.0,"dc":true,"p":4,"conn":[["CCS2",1,70.0]],"pts":1,"acc":"public_pay_at_location","cc":"PK","city":1448637,"src":[{"k":"ocm:1","u":"https://openchargemap.org/site/poi/details/479845"}],"lc":"2026-03","conf":61,"osm":null,"more":null}}}

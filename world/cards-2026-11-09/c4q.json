@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"42003":{"n":"BC Hydro - Toad River Lodge","net":"BC Hydro","kw":24.0,"dc":true,"p":3,"conn":[["CCS1",1,50.0],["CHADEMO",1,50.0],["TYPE1",1,19.2]],"pts":2,"acc":"public","cc":"CA","city":null,"src":[{"k":"afdc","u":null},{"k":"ocm:2","u":"https://openchargemap.org/site/poi/details/385196"}],"lc":"2026-11","conf":80,"osm":null,"more":null}}}

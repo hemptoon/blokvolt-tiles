@@ -1,0 +1,1 @@
+{"v":1,"date":"2026-11-09","sites":{"41278":{"n":"Kayenta, AZ - Tesla Supercharger","net":"Tesla","kw":250.0,"dc":true,"p":5,"conn":[["NACS_TESLA",8,250.0]],"pts":8,"acc":"public","cc":"US","city":null,"src":[{"k":"afdc","u":null},{"k":"ocm:2","u":"https://openchargemap.org/site/poi/details/336548"}],"lc":"2026-11","conf":80,"osm":null,"more":null}}}
