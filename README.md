@@ -1,8 +1,8 @@
 # blokvolt-tiles — data host for the blokvolt.com world map
 
 Served by GitHub Pages at https://hemptoon.github.io/blokvolt-tiles/ (byte ranges for PMTiles, `Access-Control-Allow-Origin: *`).
-Production data of the blokvolt.com world map since 11.11.2026 (REL1, "релиз мира"); R2 (`tiles.blokvolt.rs`) may replace
-this host later by the owner's decision. Built by the evdb public layer (`run_public.sh`, K1) and the
+Production map data of blokvolt.com moved to R2 (`https://tiles.blokvolt.rs/world/`) with REL3 (11.11.2026); this host keeps
+the pages bundles (`data/<date>/`, read by the hourly build of blokvolt.com), the dev previews and the fallback `world/`. Built by the evdb public layer (`run_public.sh`, K1) and the
 pages bundle (`pages_json.py`, K3); see RUNBOOK "Dev previews" in hemptoon/blokvolt-rs.
 
 - `world/<date>/world.pmtiles` — vector tiles, layer `sites`, z0–12.
@@ -12,7 +12,7 @@ pages bundle (`pages_json.py`, K3); see RUNBOOK "Dev previews" in hemptoon/blokv
   (`content/world/config.json` `data_base` = `https://hemptoon.github.io/blokvolt-tiles/world/`); the manifest names the tiles
   and the places relative to `world/`, the ODbL dump by absolute URL in `data/<date>/`.
 
-History should not grow: a data update may replace the commits of `main` (force push). A weekly update writes `data/<date>/`,
+Since REL3 (11.11.2026) a data update is an ordinary commit on top (no force push; old folders are removed only by the owner). A weekly update writes `data/<date>/`,
 `world/<date>/world.pmtiles`, extracts the cards into `world/cards-<date>/`, writes `world/manifest-<date>.json` and then both
 `latest.json` files.
 
